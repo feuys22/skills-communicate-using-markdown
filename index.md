@@ -8,3 +8,10 @@ Here is a picture.
 Baoyuchen love Feiysheng very much.She is so kind
 I love her.
 ```
+- [ ] I love Baoyuchen very much.
+
+- [ ] She is so kand.
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
